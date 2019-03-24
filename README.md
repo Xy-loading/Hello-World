@@ -1,2 +1,2 @@
 # Hello-World
-print("hello world")
+hello everybody! I am new here,thanks for watching!
